@@ -1,1 +1,1 @@
-<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/25071dc0-e8e2-45fa-8e75-f2e9e83c1bca" />
+<img width="1408" height="768" alt="Jenkins-pipeline" src="https://github.com/user-attachments/assets/cbc3939e-a34b-462b-ad1b-32f68542f034" />
